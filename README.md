@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @barsanchoolur
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
